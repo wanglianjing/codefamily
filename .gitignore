@@ -1,0 +1,15 @@
+target/
+.idea/
+*.iml
+.DS_Store
+*.so
+.settings/
+.project
+.classpath
+data/
+.metals/
+.vscode/
+/session-labeler/SimpleJobService.log
+/session-labeler-playground/backend/Server.log
+/session-labeler-playground/frontend/dist/
+a.log
